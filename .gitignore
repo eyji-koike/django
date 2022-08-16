@@ -8,3 +8,10 @@ url_shortener/.idea/url_shortener.iml
 url_shortener/.idea/vcs.xml
 url_shortener/.idea/workspace.xml
 /.env
+url_shortener/.env
+.idea/vcs.xml
+.idea/modules.xml
+.idea/misc.xml
+.idea/inspectionProfiles/Project_Default.xml
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/django.iml
