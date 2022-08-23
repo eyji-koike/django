@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="EN">
+<head>
+    {% load static %}
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href={% static 'english_dictionary/styles.css' %}>
+    <title>Dictionary</title>
+
+</head>
+<body>
+<div class="wrap">
+   <div class="search">
+     <form action="word">
+             <input type="text" name="search" class="searchTerm" placeholder="Input Your Word Here">
+         <button type="submit" class="searchButton">
+             <i class="fa fa-search"></i>
+         </button>
+    </form>
+   </div>
+</div>
+</body>
+</html>

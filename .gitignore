@@ -16,3 +16,4 @@ url_shortener/.env
 .idea/inspectionProfiles/profiles_settings.xml
 .idea/django.iml
 *.pyc
+*/.idea/*
